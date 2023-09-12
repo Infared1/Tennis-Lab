@@ -1,0 +1,13 @@
+@media screen and (max-width:960px){
+    .col__teams{
+        flex: 100%;
+        max-width: 80%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .col__teams{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
